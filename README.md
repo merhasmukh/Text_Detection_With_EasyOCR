@@ -1,0 +1,1 @@
+# Text_Detection_With_EasyOCR
